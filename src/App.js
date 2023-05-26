@@ -5,7 +5,7 @@ import {Home,Profile} from "./Pages/index"
 
 const App = () => {
     return (
-        <Router>
+        <Router basename="/Gameing-React-App">
                 <Header />
                 <Container >
                     <Routes>
