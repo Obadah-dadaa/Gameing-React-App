@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Gameing-React-App/static/css/main.d470024f.css",
-    "main.js": "/Gameing-React-App/static/js/main.7ab7fb14.js",
+    "main.css": "/Gameing-React-App/static/css/main.de5c0b1b.css",
+    "main.js": "/Gameing-React-App/static/js/main.e2272eef.js",
     "static/media/banner-bg.jpg": "/Gameing-React-App/static/media/banner-bg.f41cb78948354a14694e.jpg",
     "static/media/popular-05.jpg": "/Gameing-React-App/static/media/popular-05.fb754b91636cbce130d6.jpg",
     "static/media/popular-06.jpg": "/Gameing-React-App/static/media/popular-06.193c1358cf48df9af86f.jpg",
@@ -12,11 +12,11 @@
     "static/media/popular-07.jpg": "/Gameing-React-App/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
     "static/media/popular-03.jpg": "/Gameing-React-App/static/media/popular-03.1c8955f99df2b3b94391.jpg",
     "index.html": "/Gameing-React-App/index.html",
-    "main.d470024f.css.map": "/Gameing-React-App/static/css/main.d470024f.css.map",
-    "main.7ab7fb14.js.map": "/Gameing-React-App/static/js/main.7ab7fb14.js.map"
+    "main.de5c0b1b.css.map": "/Gameing-React-App/static/css/main.de5c0b1b.css.map",
+    "main.e2272eef.js.map": "/Gameing-React-App/static/js/main.e2272eef.js.map"
   },
   "entrypoints": [
-    "static/css/main.d470024f.css",
-    "static/js/main.7ab7fb14.js"
+    "static/css/main.de5c0b1b.css",
+    "static/js/main.e2272eef.js"
   ]
 }
