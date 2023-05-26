@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gameing-React-App/static/css/main.073c9b0a.css",
+    "main.js": "/Gameing-React-App/static/js/main.90fbab0a.js",
+    "static/js/787.ad5b5d77.chunk.js": "/Gameing-React-App/static/js/787.ad5b5d77.chunk.js",
+    "static/media/logo.svg": "/Gameing-React-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Gameing-React-App/index.html",
+    "main.073c9b0a.css.map": "/Gameing-React-App/static/css/main.073c9b0a.css.map",
+    "main.90fbab0a.js.map": "/Gameing-React-App/static/js/main.90fbab0a.js.map",
+    "787.ad5b5d77.chunk.js.map": "/Gameing-React-App/static/js/787.ad5b5d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90fbab0a.js"
+  ]
+}
