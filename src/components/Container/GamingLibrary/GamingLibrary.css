@@ -1,0 +1,12 @@
+
+.gaming-library-cards{
+    display: flex;
+    flex-wrap:wrap;
+}
+.underline{
+    text-decoration: underline;
+
+}
+.pink{
+    color: var(--color-primary);
+}

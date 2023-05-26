@@ -1,0 +1,12 @@
+.most-popular-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.underline{
+    text-decoration: underline;
+
+}
+.pink{
+    color: var(--color-primary);
+}

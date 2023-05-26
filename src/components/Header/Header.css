@@ -1,0 +1,13 @@
+.cyborg-navbar{
+    min-height: 100px;
+}
+.navbar-nav{
+        margin-right: 90px;
+              
+}
+.navbar-brand{
+    margin-left: 50px;
+}
+.nav-item {
+    padding: 0px 15px;
+}
