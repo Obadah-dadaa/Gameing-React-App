@@ -7,7 +7,7 @@ import GamingLibraryData from "../../../data/GamingLibraryData.js"
 function GamingLibrary() {
 
     const card=GamingLibraryData.map(card => {
-        return <GamingLibraryCards key={card.id} image={card.image} title={card.title} category={card.category} hours played={card.hours_played} download={card.downloaded} />
+        return <GamingLibraryCards key={card.id} image={card.image} title={card.title} category={card.category} date_added={card.date_added} hours_played={card.hours_played} download={card.downloaded} />
     })
   return (
     <>
